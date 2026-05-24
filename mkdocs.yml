@@ -1,0 +1,60 @@
+site_name: Programming Portfolio
+site_description: Работы по дисциплине «Программирование»
+site_author: Чудная Софья
+
+repo_url: https://github.com/schudnaya/portfolio_3_and_4_term
+repo_name: portfolio_3_and_4_term
+
+theme:
+  name: material
+  language: ru
+
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Темная тема
+
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+nav:
+  - Главная: index.md
+  - Обо мне: about.md
+
+  - Программирование:
+      - Работа 1: programming/work1.md
+      - Работа 2: programming/work2.md
+      - Работа 3: programming/work3.md
+      - Работа 4: programming/work4.md
+      - Работа 5: programming/work5.md
+      - Работа 6: programming/work6.md
+      - Работа 7: programming/work7.md
+      - Работа 8: programming/work8.md
+
+  - Контакты: contacts.md
