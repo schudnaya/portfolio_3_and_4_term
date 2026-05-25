@@ -4,6 +4,7 @@ site_author: Чудная Софья
 
 repo_url: https://github.com/schudnaya/portfolio_3_and_4_term
 repo_name: portfolio_3_and_4_term
+site_url: https://schudnaya.github.io/portfolio_3_and_4_term/
 
 theme:
   name: material
