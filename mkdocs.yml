@@ -12,15 +12,15 @@ theme:
 
   palette:
     - scheme: default
-      primary: blue
-      accent: blue
+      primary: green
+      accent: green
       toggle:
         icon: material/weather-night
         name: Темная тема
 
     - scheme: slate
-      primary: blue
-      accent: blue
+      primary: green
+      accent: green
       toggle:
         icon: material/weather-sunny
         name: Светлая тема
