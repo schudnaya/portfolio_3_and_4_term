@@ -12,15 +12,15 @@ theme:
 
   palette:
     - scheme: default
-      primary: blue grey
-      accent: cyan
+      primary: blue
+      accent: blue
       toggle:
         icon: material/weather-night
         name: Темная тема
 
     - scheme: slate
-      primary: light green
-      accent: green
+      primary: blue
+      accent: blue
       toggle:
         icon: material/weather-sunny
         name: Светлая тема
@@ -57,5 +57,6 @@ nav:
       - Работа 6: programming/work6.md
       - Работа 7: programming/work7.md
       - Работа 8: programming/work8.md
+      - Работа 9: programming/work9.md
+      - Работа 10: programming/work10.md
 
-  - Контакты: contacts.md
