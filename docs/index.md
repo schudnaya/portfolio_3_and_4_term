@@ -14,3 +14,5 @@
 6. ["Одиночка"](programming/work6.md)
 7. [Основные концепции ООП](programming/work7.md)
 8. [Паттерн Memento](programming/work8.md)
+9. [Телеграм-бот](programming/work9.md)
+10. [Веб-сайт](programming/work10.md)
